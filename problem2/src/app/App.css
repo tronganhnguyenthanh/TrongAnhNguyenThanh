@@ -1,0 +1,8 @@
+.form-custom-control:focus{
+  box-shadow:none !important;
+}
+
+img{
+ width:20%;
+ margin:2px;
+}
